@@ -1,0 +1,58 @@
+body{
+    background-image:url(rasm/02.jpg);
+    background-size: cover;
+    width: 70%;
+    margin: 0 auto;
+}
+#div{
+    border: 1px solid #fff;
+    background-color: #fff;
+    margin: 3% 34%;
+    width: 280px;
+    height: 500px;
+    padding: 10px;
+}
+h2{
+    text-align: center;
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 16px;
+    text-align: center;
+    font-size: 12px;
+}
+.p3{
+    color: #fff;    
+}
+#Enter{
+    width: 270px;
+    height: 24px;
+    background-color: rgb(233, 231, 219);
+}
+#Kirish{
+    background: lightgreen;
+    border: 2px dashed #000;
+    width: 200px;
+    height: 25px;
+    color: #000;
+    font-size: 17px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#Tozalash{
+    background-color: #318CE7;
+    border: 2px dotted #000;
+    width: 75px;
+    height: 25px;
+    border-radius: 25px;
+    color: #000;
+    cursor: pointer;
+}
+.p3{
+    font-size: 14px;
+    margin: 10% 0 0 12%;
+}

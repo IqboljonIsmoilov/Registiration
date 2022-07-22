@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(126, 125, 125, 0.2);
+    margin: 0 auto;
+}
+table{
+    text-align: center;
+    width: 90%;
+    margin: 5%;
+    padding: 5% ;
+}
+#rasm1{
+    width: 70px;
+}

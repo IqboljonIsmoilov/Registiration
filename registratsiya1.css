@@ -1,0 +1,47 @@
+body{
+    background-color: #A3CEE7;
+    margin: 0 auto;
+}
+.div{
+    border: 2px dashed #009;
+    width: 350px;
+    height: 410px;
+    margin: 9% 35%;
+    background-color: rgb(218, 238, 216);
+    padding: 15px;
+}
+h2{
+    text-align:center;
+}
+#name{
+    font-size: 20px;
+    width: 340px;
+    height: 40px;
+    border-radius: 10px;
+}
+#email{
+    font-size: 20px;
+    width: 340px;
+    height: 40px;
+    border-radius: 10px;
+}
+#password{
+    font-size: 20px;
+    width: 340px;
+    height: 40px;
+    border-radius: 10px;
+}
+.enter{
+    border: 1px dashed #009;
+    font-size: 20px;
+    font-weight:initial;
+    width: 350px;
+    height: 30px;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: #e7a3a3;
+}
+#NEP{
+    font-size: 20px;
+    padding: 5px;
+}
